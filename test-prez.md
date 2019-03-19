@@ -1,7 +1,7 @@
 ---
 layout: presentation
 title: Default Presentation
-permaling: /test-prez/
+permalink: /test-prez/
 ---
 
 # My Awesome Presentation
